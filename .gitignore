@@ -259,3 +259,30 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+# lab0515
+## 설명
+
+설명글을 작성하면 되다.
+
+[이미지]
+[네이버](http://naver.com"네니버 연결")
+
+********************
+
+분장 중간에 함수' y = f (x) '
+
+C언어 **코드**  *블력*
+
+```C
+void f()
+{printf("hello")
+}
+
+```python
+def fun():
+  print
+
+1. 숫자 1단계 아이템
+     1. 이것은
+2.숫자 2단계 아이템
+3.숫자 3단계 아이템
